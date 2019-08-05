@@ -1,11 +1,12 @@
 package poo.u3.e4;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class PooU3E4 {
 
     public static void main(String[] args) {
-        ArrayList<String> nombres=new ArrayList<String>();
+        List<String> nombres=new ArrayList<>();
         nombres.add("Juan");
         nombres.add("Pedro");
         nombres.add("Pablo");
